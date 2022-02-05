@@ -1,0 +1,10 @@
+Content:
+- LifeSycle Methods
+- Keyfragment
+- Pure Component
+- HOC (Higher Order Component)
+- Render Props
+- Refs -Callback Refs
+- Context API
+- React Router Dom - Route Params - Query String
+- Axois [Get - Post] requests
